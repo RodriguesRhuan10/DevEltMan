@@ -1,12 +1,8 @@
 import PhoneItem from "@/app/_components/phone-item"
 import ServiceItem from "@/app/_components/service-item"
-import SidebarSheet from "@/app/_components/sidebar-sheet"
-import { Button } from "@/app/_components/ui/button"
-import { Sheet, SheetTrigger } from "@/app/_components/ui/sheet"
 import { db } from "@/app/_lib/prisma"
-import { ChevronLeftIcon, MapPinIcon, MenuIcon, StarIcon, ScissorsIcon, PhoneIcon } from "lucide-react"
+import { MapPinIcon, StarIcon, ScissorsIcon, PhoneIcon } from "lucide-react"
 import Image from "next/image"
-import Link from "next/link"
 import { notFound } from "next/navigation"
 import Header from "@/app/_components/header"
 
