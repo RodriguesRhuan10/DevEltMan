@@ -8,8 +8,8 @@ import AuthProvider from "./_providers/auth"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "DevElt Barber",
-  description: "Agende seu horário nas melhores barbearias da cidade",
+  title: "DevElt Man",
+  description: "Sistema de agendamento para Manicure e Pedicure",
 }
 
 export default function RootLayout({
