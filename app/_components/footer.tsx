@@ -17,7 +17,7 @@ const Footer = () => {
                   href="/"
                   className="text-sm font-semibold text-gray-900 transition-colors hover:text-primary"
                 >
-                  DevElt
+                  Rhuan Rodrigues
                 </Link>
                 <span className="text-[10px] font-medium text-gray-500">
                   © {new Date().getFullYear()}
